@@ -1,3 +1,5 @@
+// made by John Corbett 2011
+
 #define USE_TI89
 
 #include <tigcclib.h>
